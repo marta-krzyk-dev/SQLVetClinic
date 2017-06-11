@@ -11,7 +11,7 @@ An example database application for a vet clinic made with:
 
 ## Database structure
 
-[!alt img](https://github.com/marta-krzyk-dev/SQLVetClinic/blob/master/Printscreens/erd_weterynaria.png?raw=true)
+![alt tag](https://github.com/marta-krzyk-dev/SQLVetClinic/blob/master/Printscreens/erd_weterynaria.png?raw=true)
 
 ## Application printscreens
 
