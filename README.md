@@ -20,25 +20,24 @@ An example database application for a vet clinic made with:
 
 ### Forms for adding a record
 
-![alt tag](https://github.com/marta-krzyk-dev/SQLVetClinic/blob/master/Printscreens/dodaj_gat.png?raw=true)
+![alt tag](https://github.com/marta-krzyk-dev/SQLVetClinic/blob/master/Printscreens/Forms/dodaj_gat.png?raw=true)
 
-![alt tag](https://github.com/marta-krzyk-dev/SQLVetClinic/blob/master/Printscreens/dodaj_miejsc%202.png?raw=true)
+![alt tag](https://github.com/marta-krzyk-dev/SQLVetClinic/blob/master/Printscreens/Forms/dodaj_spec%202.png?raw=true)
 
-![alt tag](https://github.com/marta-krzyk-dev/SQLVetClinic/blob/master/Printscreens/dodaj_spec%202.png?raw=true)
+![alt tag](https://github.com/marta-krzyk-dev/SQLVetClinic/blob/master/Printscreens/Forms/dodaj_wiz.png?raw=true)
 
-![alt tag](https://github.com/marta-krzyk-dev/SQLVetClinic/blob/master/Printscreens/dodaj_wiz.png?raw=true)
+### Form for editing
 
-### Forms for editing
+![alt tag](https://github.com/marta-krzyk-dev/SQLVetClinic/blob/master/Printscreens/Forms/edytuj_wlas.png?raw=true)
 
-![alt tag](https://github.com/marta-krzyk-dev/SQLVetClinic/blob/master/Printscreens/edytuj_wet.png?raw=true)
+### Form for showing collections of data
 
-![alt tag](https://github.com/marta-krzyk-dev/SQLVetClinic/blob/master/Printscreens/edytuj_wlas.png?raw=true)
+![alt tag](https://github.com/marta-krzyk-dev/SQLVetClinic/blob/master/Printscreens/Forms/pokaz_wiz.png?raw=true)
 
-### Forms for showing collections of data
+## Reports
 
-![alt tag](https://github.com/marta-krzyk-dev/SQLVetClinic/blob/master/Printscreens/pokaz_pac.png?raw=true)
+### Report on an individual patient
+![alt tag](https://github.com/marta-krzyk-dev/SQLVetClinic/blob/master/Printscreens/Reports/raport%20pac%202.png?raw=true)
 
-![alt tag](https://github.com/marta-krzyk-dev/SQLVetClinic/blob/master/Printscreens/pokaz_wiz.png?raw=true)
-
-
-
+### Report on clinic's income
+![alt tag](https://github.com/marta-krzyk-dev/SQLVetClinic/blob/master/Printscreens/Reports/raport%20zarobek.png?raw=true)
