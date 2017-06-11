@@ -9,8 +9,6 @@ NoCycle;
 UPDATE Typy
 SET ID_typu=SEK_typ.NEXTVAL;
 
-//Nie publikuj tego w sprawozdaniu
-
 CREATE TRIGGER trigger_spec
 BEFORE INSERT ON specjalizacje
 FOR EACH ROW
