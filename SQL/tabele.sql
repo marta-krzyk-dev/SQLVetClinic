@@ -112,15 +112,10 @@ MODIFY telefon1 VARCHAR2(12);
 ALTER TABLE Sprzedawcy
 MODIFY telefon2 VARCHAR2(12);
 
-//podaniei email wymagane
+//podanie emaila wymagane
 ALTER TABLE Sprzedawcy
 MODIFY email NOT NULL;
-/*nie dziala replicate*/
-
-		/*NIE DZIAŁA*/
-ALTER TABLE Sprzedawcy
-ADD CONSTRAINT DobryTelefon1
-CHECK (telefon1 LIKE ('[0-9,-][0-9,-][0-9,-][0-9,-][0-9,-][0-9,-][0-9,-][0-9,-][0-9,-][0-9,-][0-9,-][0-9,-]'));
+		
 	
 ALTER TABLE Sprzedawcy
 ADD CONSTRAINT DobryTelefon2
