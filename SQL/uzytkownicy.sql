@@ -1,5 +1,5 @@
 CREATE TABLESPACE wet
-DATAFILE 'C:\Users\Marta\Desktop\GWSH\Bazy danych 2\Projekt zaliczeniowy Weterynarze\wet.ora'
+DATAFILE 'C:\example\vet.ora'
 SIZE 1M
 AUTOEXTEND ON
 NEXT 1M
